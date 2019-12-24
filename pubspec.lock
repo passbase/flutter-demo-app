@@ -98,9 +98,9 @@ packages:
   passbase_flutter:
     dependency: "direct main"
     description:
-      path: "../flutter-package/passbase_flutter"
-      relative: true
-    source: path
+      name: passbase_flutter
+      url: "https://pub.dartlang.org"
+    source: hosted
     version: "0.0.1"
   path:
     dependency: transitive
