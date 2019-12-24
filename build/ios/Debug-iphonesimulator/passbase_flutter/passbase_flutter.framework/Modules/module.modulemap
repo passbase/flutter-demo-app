@@ -1,0 +1,11 @@
+framework module passbase_flutter {
+  umbrella header "passbase_flutter-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module passbase_flutter.Swift {
+    header "passbase_flutter-Swift.h"
+    requires objc
+}

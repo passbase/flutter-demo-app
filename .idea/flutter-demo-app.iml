@@ -12,21 +12,16 @@
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/build" />
-      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/build/app/intermediates/flutter/debug/flutter_assets/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/build/app/intermediates/merged_assets/debug/mergeDebugAssets/out/flutter_assets/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/build/app/intermediates/merged_assets/debug/out/flutter_assets/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/build/flutter_assets/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/build/ios/Debug-iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/build/ios/Debug-iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/build/ios/iphoneos/Runner.app/Frameworks/App.framework/flutter_assets/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/build/ios/iphonesimulator/Runner.app/Frameworks/App.framework/flutter_assets/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/ios/Flutter/App.framework/flutter_assets/packages" />
-      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/Flutter/App.framework/flutter_assets/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ios/.symlinks/plugins/passbase_flutter/example/ios/.symlinks/plugins/passbase_flutter/example/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
     <orderEntry type="library" name="Flutter Plugins" level="project" />
-    <orderEntry type="library" name="Dart Packages" level="project" />
   </component>
 </module>
