@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/passbase_flutter-Swift.h</key>
 		<data>
-		YvIBdu7eyzGA4qZw9rA18uWea5Q=
+		CS1kH/QLxMzkAtJeU/j5GNgAVVY=
 		</data>
 		<key>Headers/passbase_flutter-umbrella.h</key>
 		<data>
@@ -18,27 +18,35 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		g6orrG46Fu0InC7nKfEOo09cpAU=
+		bn72U8GsKiYuZeviYwsk+vS6pkk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		1YFdK5m5iV0mdE7h4myycb6CKPw=
 		</data>
+		<key>Modules/passbase_flutter.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		R5yOYClTgY0HuC3FoNgAWDWt4zE=
+		</data>
+		<key>Modules/passbase_flutter.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<data>
+		R5yOYClTgY0HuC3FoNgAWDWt4zE=
+		</data>
 		<key>Modules/passbase_flutter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		OW8JoAbwC7lV2wXhqbc/j71FSxg=
+		7RxcIsSEf8TBdZ/LABo7JK3GKWc=
 		</data>
 		<key>Modules/passbase_flutter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zRaTkFfPZyhip7KAf3ZmoNfJrts=
+		y1HiXA5RxHEN72AtsFLRqYii2YQ=
 		</data>
 		<key>Modules/passbase_flutter.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		OW8JoAbwC7lV2wXhqbc/j71FSxg=
+		7RxcIsSEf8TBdZ/LABo7JK3GKWc=
 		</data>
 		<key>Modules/passbase_flutter.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		zRaTkFfPZyhip7KAf3ZmoNfJrts=
+		y1HiXA5RxHEN72AtsFLRqYii2YQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -58,11 +66,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YvIBdu7eyzGA4qZw9rA18uWea5Q=
+			CS1kH/QLxMzkAtJeU/j5GNgAVVY=
 			</data>
 			<key>hash2</key>
 			<data>
-			0zdVsaGWoSUcczH9uTYTHCY3308RbWk9uh/+N6SsD+8=
+			R10jY7CT6rSFdBrrvHBv3c9ab2vEAbjn2Q6oKqWaVak=
 			</data>
 		</dict>
 		<key>Headers/passbase_flutter-umbrella.h</key>
@@ -87,48 +95,70 @@
 			YnyNyOoQHdUud3wCd0RJMMz0FyTn9q3xyDzqX9NxdPs=
 			</data>
 		</dict>
+		<key>Modules/passbase_flutter.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R5yOYClTgY0HuC3FoNgAWDWt4zE=
+			</data>
+			<key>hash2</key>
+			<data>
+			V05DKGdrE8aV283qeF54GIsKfJV5L5Pwhv6EIz1+U5I=
+			</data>
+		</dict>
+		<key>Modules/passbase_flutter.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R5yOYClTgY0HuC3FoNgAWDWt4zE=
+			</data>
+			<key>hash2</key>
+			<data>
+			V05DKGdrE8aV283qeF54GIsKfJV5L5Pwhv6EIz1+U5I=
+			</data>
+		</dict>
 		<key>Modules/passbase_flutter.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OW8JoAbwC7lV2wXhqbc/j71FSxg=
+			7RxcIsSEf8TBdZ/LABo7JK3GKWc=
 			</data>
 			<key>hash2</key>
 			<data>
-			au0JPkIXrfy0iTlJPz4geIm6FfqbbnLBVbkm+CXf91w=
+			8ZLSrwwa2GJa+SAMryhCLn2TBo2SJiAh980wFaiKkd8=
 			</data>
 		</dict>
 		<key>Modules/passbase_flutter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zRaTkFfPZyhip7KAf3ZmoNfJrts=
+			y1HiXA5RxHEN72AtsFLRqYii2YQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			EnpwQ8odyV6xONlZqBO5RIn+SC2/j7JNZFGuIKnoKBs=
+			mTTl0nJmz7ltJxke7ByWzz05sV9vxkjtxZZVRJAxiRI=
 			</data>
 		</dict>
 		<key>Modules/passbase_flutter.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			OW8JoAbwC7lV2wXhqbc/j71FSxg=
+			7RxcIsSEf8TBdZ/LABo7JK3GKWc=
 			</data>
 			<key>hash2</key>
 			<data>
-			au0JPkIXrfy0iTlJPz4geIm6FfqbbnLBVbkm+CXf91w=
+			8ZLSrwwa2GJa+SAMryhCLn2TBo2SJiAh980wFaiKkd8=
 			</data>
 		</dict>
 		<key>Modules/passbase_flutter.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zRaTkFfPZyhip7KAf3ZmoNfJrts=
+			y1HiXA5RxHEN72AtsFLRqYii2YQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			EnpwQ8odyV6xONlZqBO5RIn+SC2/j7JNZFGuIKnoKBs=
+			mTTl0nJmz7ltJxke7ByWzz05sV9vxkjtxZZVRJAxiRI=
 			</data>
 		</dict>
 	</dict>

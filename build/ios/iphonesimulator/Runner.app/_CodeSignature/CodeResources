@@ -82,51 +82,35 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		Im4fQI3i2s49Q8HoWA9yUGzuSgA=
+		RPynkzrslyt0yJAMG15+pKpUODs=
 		</data>
-		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
-		LHNeNg+sGZ05TLXA0hSoYYRC8FE=
-		</data>
-		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
-		<data>
-		Wfv+6+3GSgMhCKqk+Z3cTFLt3ug=
+		836Y04ysVFBXxN4wNDm5FsSHURA=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
 		<data>
 		n2t8gsDpfE6XkhG31p7IQJRxTxU=
 		</data>
-		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<data>
-		72wrlwG5IDaBbIEP3MbywDFRbF0=
+		CsEKN9gtTZsNSxoEn2b7XM8X0/k=
 		</data>
-		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
+		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<data>
-		e6Fvlj1Ds4z6wmGP2OkNrSZc5Cs=
-		</data>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib</key>
-		<data>
-		/rjbHnAxOFghjofON4GXNz8Ha9Y=
-		</data>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib</key>
-		<data>
-		69/jBUw6hS59An9nv6NqP2Z9D3k=
+		UiMejKG2MdYSBMxOTh4sFMDtZ/w=
 		</data>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
 		<data>
 		MDrKFvFWroTb0+KEbQShBcoBvo4=
 		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<data>
-		Qu1Wlu2k2anMC3V1hwBPjltNsyk=
-		</data>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib</key>
-		<data>
-		boLNN39f+J3KdeHFBHZlwbfatwg=
+		CLYuspMctIqAGS+za/EyAnBJwgQ=
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		9NBok+jVm397GEsWJi9e7B8M0dY=
+		qt1JhVtp4v812D38uyrym022jGc=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -134,15 +118,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		cesvGnoWctW+JcvUT9bmKUnrb28=
+		NWgkq+mfu32At7kaG/vNJ3M7Iv4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		bpWaQv/iQv1ynyrrXJ47/3ae4p4=
+		k0iWttR6g+DUku+GSgrOipFRuI4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
-		lILml1/Dm8FIsisqu4EM3Kg929Q=
+		Qu96fY9Ih7FUp1muInLoIzOEm30=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/LICENSE</key>
 		<data>
@@ -154,11 +138,23 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<data>
-		64Dopa22pFdedRvbC1i5TzhO8UU=
+		Z2ICrHK+jrge57+K8dZOkuVFwKY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		hKieZrPiHtLlc38B8eWRvkoPxLo=
+		6FI3LWwMgC9W0jkub/o8aXROWUk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/lib/assets/Exo-Regular.ttf</key>
+		<data>
+		Ug9FQhbojCYEGH0WlVzXKeMfBMY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/lib/assets/Exo-SemiBold.ttf</key>
+		<data>
+		HB3unVFLRgOtRdzjJ4sYAgcuRMk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/lib/assets/shield-icon.png</key>
+		<data>
+		YE4Ss51HRVHQOiFSSeSH048yXJc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -170,19 +166,19 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/vm_snapshot_data</key>
 		<data>
-		Jhsc/JSwwECveCMiSUgDkVyaTOM=
+		9/Sg3xz36iaqQAEPm7T0k2zXcgk=
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		GjQhLCd9d3/3DmwG9WXPSBS9/6o=
+		giEetwVx02V2y+Xhe2FY4ef5gVE=
 		</data>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<data>
-		627oQ/UgRfGT5/ULRUpMqh9ZDqA=
+		mnHPxuhcDNdFJvCm3D3rP4L3JYg=
 		</data>
 		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		nAw0LCeS3b/MkvLl6UkiGExQYpw=
+		9uSQKxx4E6VK6MVahP0SjlrD0vg=
 		</data>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<data>
@@ -190,22 +186,13 @@
 		</data>
 		<key>Frameworks/Passbase.framework/Assets.car</key>
 		<data>
-		OXl6DtAMXKAsTtqcRU+KUGvVvew=
+		H+n1jL1BdOFX3WFRTIVMgbY3YKU=
 		</data>
-		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/9FQ-Lp-0ig-view-heT-3f-YxA.nib/objects-13.0+.nib</key>
+		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/9FQ-Lp-0ig-view-heT-3f-YxA.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Kyt4OxN2J6seBqe78VoFKTa7pYw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/9FQ-Lp-0ig-view-heT-3f-YxA.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PW17oNfqRXvYM5WHyDA/rRrDvX8=
+			X41jrYGW+Mpa3e4FCOsk9YveoYE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -219,84 +206,187 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/RootNavigationController.nib/objects-13.0+.nib</key>
+		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/RootNavigationController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8gITiGFroF3xeiAetVAAfpBvjsU=
+			oUX2H8b4ahOM/Qg9qhPJf+ivD3o=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/RootNavigationController.nib/runtime.nib</key>
+		<key>Frameworks/Passbase.framework/Base.lproj/PassbaseButton.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pKbHCwsNx0iZYgie9iftxvD5Py4=
+			p5jyyM4APSgNquNshR2GS4UT3lY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/IDGIF.gif</key>
+		<key>Frameworks/Passbase.framework/Base.lproj/PassbaseButton.nib/runtime.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Yr1Yqa2B5fW36CR/k3LzX4BqYCo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/DRIVERS_LICENSE.gif</key>
 		<data>
-		ZNBJWR3e0+/+ve8jfntiSCIxUjo=
+		BkjygScOXFn9O4R7enWU9OX96QY=
+		</data>
+		<key>Frameworks/Passbase.framework/DRIVERS_LICENSE_BACK.gif</key>
+		<data>
+		+dflBI0ub9bjTX53fTVgAtpSD4I=
+		</data>
+		<key>Frameworks/Passbase.framework/DRIVERS_LICENSE_BACK_dark.gif</key>
+		<data>
+		dKFGnO1aIdKfc5AR36NAYUHONao=
+		</data>
+		<key>Frameworks/Passbase.framework/DRIVERS_LICENSE_FRONT.gif</key>
+		<data>
+		s5W//1oYd0l6tNr0/sa8GO1B0Ng=
+		</data>
+		<key>Frameworks/Passbase.framework/DRIVERS_LICENSE_FRONT_dark.gif</key>
+		<data>
+		oWpgXhGTsZIA6Isj35X5vA9YqIg=
+		</data>
+		<key>Frameworks/Passbase.framework/HEALTH_INSURANCE_CARD_BACK.gif</key>
+		<data>
+		+WJpMNHqqo4bkwIAg+Nm5ZHleio=
+		</data>
+		<key>Frameworks/Passbase.framework/HEALTH_INSURANCE_CARD_BACK_dark.gif</key>
+		<data>
+		Qzg2DY5C4PqfKz3V4uWwefWVgCA=
+		</data>
+		<key>Frameworks/Passbase.framework/HEALTH_INSURANCE_CARD_FRONT.gif</key>
+		<data>
+		LA4k7O5sJU5dEMJ0/9+AWHq6DXM=
+		</data>
+		<key>Frameworks/Passbase.framework/HEALTH_INSURANCE_CARD_FRONT_dark.gif</key>
+		<data>
+		AAaRCfY+Gv1RGynVf418SVkvR6Q=
 		</data>
 		<key>Frameworks/Passbase.framework/Info.plist</key>
 		<data>
-		0WUuPVOS5273TNMqSNo539iAZ1U=
+		GpWLyEHQLMj2uOVdDB9hWOe+fnk=
+		</data>
+		<key>Frameworks/Passbase.framework/NATIONAL_ID_CARD.gif</key>
+		<data>
+		aMyhe9ikbrX/WsRPHQ6LjO024YQ=
+		</data>
+		<key>Frameworks/Passbase.framework/NATIONAL_ID_CARD_BACK.gif</key>
+		<data>
+		jxL+f87o6UZ2C0BJ1NUA8o2jUt0=
+		</data>
+		<key>Frameworks/Passbase.framework/NATIONAL_ID_CARD_BACK_dark.gif</key>
+		<data>
+		OyUl9rZBkpwUOJblKO09djNYKco=
+		</data>
+		<key>Frameworks/Passbase.framework/NATIONAL_ID_CARD_FRONT.gif</key>
+		<data>
+		T7wn1e0/RwEwJLIw03CGLDzxZgE=
+		</data>
+		<key>Frameworks/Passbase.framework/NATIONAL_ID_CARD_FRONT_dark.gif</key>
+		<data>
+		TlisU/ZFyyDaAZin0jSxck5dAIA=
+		</data>
+		<key>Frameworks/Passbase.framework/PASSPORT.gif</key>
+		<data>
+		ahTdtEf/033Qu5t5WqyTAm+F65M=
+		</data>
+		<key>Frameworks/Passbase.framework/PASSPORT_FRONT.gif</key>
+		<data>
+		KfVjz5keCRsdKFofIiXVxgLwx08=
+		</data>
+		<key>Frameworks/Passbase.framework/PASSPORT_FRONT_dark.gif</key>
+		<data>
+		PdnfRV5o8fUV8DFMXrBhV58DbFw=
+		</data>
+		<key>Frameworks/Passbase.framework/PROOF_OF_ADDRESS.gif</key>
+		<data>
+		CB1JsgEs/XQ6wItQBnlRyCg0gZI=
+		</data>
+		<key>Frameworks/Passbase.framework/PROOF_OF_ADDRESS_dark.gif</key>
+		<data>
+		7nGuI/H0iYu/0JCcwcoM+/BPu2c=
 		</data>
 		<key>Frameworks/Passbase.framework/Passbase</key>
 		<data>
-		ul851t0h1bZF7jCNXC7XHoa/e1E=
+		odxJU12xhMbY3py3PwbR3kRIH+Q=
 		</data>
 		<key>Frameworks/Passbase.framework/Passbase.podspec</key>
 		<data>
-		ikCVzUjXXAnbrA+70ILuRHKZo0w=
+		F6UAVT6xqvY7aZeaw15Mft2Cbk8=
 		</data>
 		<key>Frameworks/Passbase.framework/START.gif</key>
 		<data>
 		ZHkux9CX812Q86SG9XW7lxBZaoc=
 		</data>
+		<key>Frameworks/Passbase.framework/START_dark.gif</key>
+		<data>
+		/+4OhcDhP1ZH25Gs3ix0MVOKDt8=
+		</data>
 		<key>Frameworks/Passbase.framework/_CodeSignature/CodeResources</key>
 		<data>
-		vaQplTHTWfO9K9UuNTknOql00dI=
+		GSDmG8yNAuipWh4zV7G14J35YT0=
 		</data>
 		<key>Frameworks/Passbase.framework/countries.json</key>
 		<data>
-		KJKXF8bL8ETgSaiOMl1aWnhg2L4=
+		PNlpEtv48I3NqXrJKtKyP9uogNU=
 		</data>
+		<key>Frameworks/Passbase.framework/da.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XrcOIip+pcLU2Cdt1fdGJ4tgpKA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/da.lproj/PassbaseButton.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i4MEIEaSRKd/62214xpQf+uz2Sw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/da.lproj/Zoom.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hLkdcghVNxgdNr538PtN4YLkD+g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Frameworks/Passbase.framework/de.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iCYbOxEKvi9NE1q7DFOHU+SwGBY=
+			MDHR/k0ygacfYbKpBSvHyTmvvr0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/de.lproj/PassbaseButton.nib/objects-11.0+.nib</key>
+		<key>Frameworks/Passbase.framework/de.lproj/PassbaseButton.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BNmSpV9QFN4lrcQmFmcjrqKJJWc=
+			CPKTh2lSDHYdOFOCtlqMAvB8Op4=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/de.lproj/PassbaseButton.nib/objects-13.0+.nib</key>
+		<key>Frameworks/Passbase.framework/de.lproj/Zoom.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6sTXOmFmTWmjwRcSRPbgZxHE+8E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/Passbase.framework/de.lproj/PassbaseButton.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q8C90/7ypbxTAyC67pD1xtMfjOo=
+			RAHxfcuOIDze7J6/PUXriWM71lU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -305,34 +395,25 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VjuzObYInRB9mhBxTQBFQpo5pas=
+			mBV2r2WVJ8NfV0BJmNHw8FFIB7o=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/en.lproj/PassbaseButton.nib/objects-11.0+.nib</key>
+		<key>Frameworks/Passbase.framework/en.lproj/PassbaseButton.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZsMMIn3X5TTROdjpkLQzi5T1jV8=
+			o4acor71y8dKhon3IhydL1uFIrw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/en.lproj/PassbaseButton.nib/objects-13.0+.nib</key>
+		<key>Frameworks/Passbase.framework/en.lproj/Zoom.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mRjS03HVKReFg6HDixDn4JVQ3IE=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/Passbase.framework/en.lproj/PassbaseButton.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ht2OIJJyG//ZiCP60OOMJmVFiTY=
+			oeKKlJbFXCVgoiQnFnukcxxhG6k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -341,38 +422,60 @@
 		<data>
 		fxciBHIPODwRSMbvaxcruEinUow=
 		</data>
+		<key>Frameworks/Passbase.framework/errorGIF_dark.gif</key>
+		<data>
+		2cUlmR7uGYWCmaeaudLgOrZz/WQ=
+		</data>
+		<key>Frameworks/Passbase.framework/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uo1+3I+uguhWOpnWlgwEBHBWMrk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/es.lproj/PassbaseButton.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y1rmcD7/FWwGBocN6FJwRLiHtRQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/es.lproj/Zoom.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s4CMUSU8e4MIvZzgoFlnWQRXVVE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Frameworks/Passbase.framework/fr.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+3d3wcF5W/qyJW0mc5ORzd17uks=
+			c/FY3QVY0Vp5ERft3zhiVxA/VbQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/fr.lproj/PassbaseButton.nib/objects-11.0+.nib</key>
+		<key>Frameworks/Passbase.framework/fr.lproj/PassbaseButton.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G8klh3mjLTbFVpy0c0zNdg66+tM=
+			XbGYRDoHZrSShD4eXArYPKeeWOI=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/fr.lproj/PassbaseButton.nib/objects-13.0+.nib</key>
+		<key>Frameworks/Passbase.framework/fr.lproj/Zoom.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ozP4mUzp//ivYeTL7v7C+FirjjY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/Passbase.framework/fr.lproj/PassbaseButton.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2xeRQikxqSihXhKTEGWXsNiAt2k=
+			lg+rIpYY3Oe6d3BTlXPYXJg2LkA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -381,29 +484,118 @@
 		<data>
 		B2Rm1cHzya3KFH/rmhgsY2YbTog=
 		</data>
+		<key>Frameworks/Passbase.framework/headGIF_dark.gif</key>
+		<data>
+		bKpsdIlUA8Q0BIgibIsWG6XfLH8=
+		</data>
 		<key>Frameworks/Passbase.framework/lockGIF.gif</key>
 		<data>
 		0oSfsgMdK84BtbjiZLxxfAJaEs8=
 		</data>
-		<key>Frameworks/Passbase.framework/roundArrow.gif</key>
+		<key>Frameworks/Passbase.framework/lockGIF_dark.gif</key>
 		<data>
-		BdOI9v1cLC0MfTJRYEXhUW/zn9E=
+		X48h+qm/dErcYVbR+gWbP8kJVxQ=
 		</data>
+		<key>Frameworks/Passbase.framework/lt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			reAfWni7ItGiCNQeKLarhuotFm8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/lt.lproj/PassbaseButton.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iS9my5+ugSHJsExes0TDxUPXabM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/lt.lproj/Zoom.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qtI6EKNAQqj1/LRbkCYCJ1B2Ujk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/lv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j+c56dUDvtC0TuzmVBnICo/788o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/lv.lproj/PassbaseButton.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ed1glDUtwhG7OYfulmm/KlXg3WM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/lv.lproj/Zoom.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z+9YHGXXMPd+MvOHMjThxs0S7YI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B460GhstiiJ96+S8PoJnq0bzzS0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/ru.lproj/PassbaseButton.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IHYZDJN64qs4DQV4VHXCJYgSHaA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/ru.lproj/Zoom.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TxeYtdUR9HNrQSquPZN4f6DrbjI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Frameworks/Passbase.framework/verifiedBadge.gif</key>
 		<data>
 		/CMxLiPvKB+S1bBGG6uN8cjQJN4=
 		</data>
+		<key>Frameworks/Passbase.framework/verifiedBadge_dark.gif</key>
+		<data>
+		WjxmxLJiVC2881ui2Dr1mFOXUmE=
+		</data>
 		<key>Frameworks/Sentry.framework/Info.plist</key>
 		<data>
-		Gi2HcFBN7sYtCsi9a5tFTJ/YvzM=
+		ObMrAYOoDf9Z1rhAAr+Jnez0nXw=
 		</data>
 		<key>Frameworks/Sentry.framework/Sentry</key>
 		<data>
-		cq7am3z4eRLOTC5XdOk9ViKciv0=
+		F0CAFJ//zm0wSius5QRdJGh2Hlo=
 		</data>
 		<key>Frameworks/Sentry.framework/_CodeSignature/CodeResources</key>
 		<data>
-		jv643wD16pQji8k810VIhaj016g=
+		pA59rRzE2PDPJ1YrO/BneJa+3To=
 		</data>
 		<key>Frameworks/ZoomAuthenticationHybrid.framework/Assets.car</key>
 		<data>
@@ -588,27 +780,27 @@
 		</data>
 		<key>Frameworks/passbase_flutter.framework/Info.plist</key>
 		<data>
-		g6orrG46Fu0InC7nKfEOo09cpAU=
+		bn72U8GsKiYuZeviYwsk+vS6pkk=
 		</data>
 		<key>Frameworks/passbase_flutter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		J9s0KBgT5SS8mLK5qseasYu0Xjg=
+		G+Gg/po4cQicHRUAmI77QC6Pwz4=
 		</data>
 		<key>Frameworks/passbase_flutter.framework/passbase_flutter</key>
 		<data>
-		Ueey9syRFgvbP8qVaItfQQCG2Qo=
+		4PSS9Is7e2PpX0pPHNtA8kpu0K4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WgsvgD/E5iC4zugqifziae0+Fuk=
+		czqcYXkoU4uFRZGgdIDtSaEzORE=
 		</data>
 		<key>Passbase.bundle/Info.plist</key>
 		<data>
-		hFMcYJrP5DsuhwN9CNh4pKnGojk=
+		5DToOPUesZaQ+9n226yMxFNKTgo=
 		</data>
 		<key>Passbase.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		A9TGhU9b5noFKZC5hK39LqmAq38=
+		kX0nY5dpqxwbPjqP0kGk6iNEsLk=
 		</data>
 		<key>Passbase.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -616,7 +808,7 @@
 		</data>
 		<key>Passbase.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		n/w7QjwqcQyw9MZr0VW4FlZdqNY=
+		dLtHzLL7PyybM9BzhdbkqEjbRxI=
 		</data>
 		<key>Passbase.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -846,33 +1038,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Im4fQI3i2s49Q8HoWA9yUGzuSgA=
+			RPynkzrslyt0yJAMG15+pKpUODs=
 			</data>
 			<key>hash2</key>
 			<data>
-			R74yw8mLpPGSSvyM5DGtIasi8RtXInBG6KDShUl3nmA=
+			FFNAT+/n8ypd9xo1qRXYxxyqzNiEp/pRm+3zdfDlKfo=
 			</data>
 		</dict>
-		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LHNeNg+sGZ05TLXA0hSoYYRC8FE=
+			836Y04ysVFBXxN4wNDm5FsSHURA=
 			</data>
 			<key>hash2</key>
 			<data>
-			1UB+sB5Z6m4imsOTFkH0+S5JAI1NdmoDxgUrzfiEqiw=
-			</data>
-		</dict>
-		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Wfv+6+3GSgMhCKqk+Z3cTFLt3ug=
-			</data>
-			<key>hash2</key>
-			<data>
-			U/uIU0+JxfRRXyh1Eg80kNvprfb9UumvrFPLBoJcyxg=
+			+lnUqlTIaTfIsLQaa3lOsAKkUym0aeGzel82c62dWBs=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/Info.plist</key>
@@ -886,48 +1067,26 @@
 			HyVdXMU7Ux4/KalAao30mpWOK/lEPT4gvYN09wf31cg=
 			</data>
 		</dict>
-		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			72wrlwG5IDaBbIEP3MbywDFRbF0=
+			CsEKN9gtTZsNSxoEn2b7XM8X0/k=
 			</data>
 			<key>hash2</key>
 			<data>
-			qJVOXoPQp15o6XCBKMBN0zKxQfSiVuI4FJUD3JKQEQ0=
+			REC7KQVFlPKvANYPQygwSEVge8Pj0R0IypoNcw0Dxbw=
 			</data>
 		</dict>
-		<key>Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib/runtime.nib</key>
+		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e6Fvlj1Ds4z6wmGP2OkNrSZc5Cs=
+			UiMejKG2MdYSBMxOTh4sFMDtZ/w=
 			</data>
 			<key>hash2</key>
 			<data>
-			AL5B3AChaLEf5ZfwuC3RNmMa6kcrUKPQ5tbYltGMgfc=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/objects-13.0+.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/rjbHnAxOFghjofON4GXNz8Ha9Y=
-			</data>
-			<key>hash2</key>
-			<data>
-			xSPVKMKidIlPbu19BEWWVkm23IVK1uFkouw2y+pKWDE=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			69/jBUw6hS59An9nv6NqP2Z9D3k=
-			</data>
-			<key>hash2</key>
-			<data>
-			XrSyXXQCgkizVI+MxQ+PBi3NHx8FyDyO5qLU9XW1ZDE=
+			h3ZLotOmgfyYR6p3TY11iFgIk/FHs3CnV/XQ6O2k/p0=
 			</data>
 		</dict>
 		<key>Base.lproj/Main.storyboardc/Info.plist</key>
@@ -941,37 +1100,26 @@
 			PpvapAjR62rl6Ym4E6hkTgpKmBICxTaQXeUqcpHmmqQ=
 			</data>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/objects-13.0+.nib</key>
+		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Qu1Wlu2k2anMC3V1hwBPjltNsyk=
+			CLYuspMctIqAGS+za/EyAnBJwgQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			riEZoH91wG5FibJsoIVTm5UO8w2ZaALKueWJMefQ+cA=
-			</data>
-		</dict>
-		<key>Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			boLNN39f+J3KdeHFBHZlwbfatwg=
-			</data>
-			<key>hash2</key>
-			<data>
-			6aNi4a6kHI4NLaGD4M7C4br81sircRt/cUQMWKQbGGk=
+			wiiQYBCKxdzrAaTrAW98g/1RnUSWB6BlQSSivpWDxZQ=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/App</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9NBok+jVm397GEsWJi9e7B8M0dY=
+			qt1JhVtp4v812D38uyrym022jGc=
 			</data>
 			<key>hash2</key>
 			<data>
-			mUONQwiTeyzAXjYpKbzkjvylvIV60PEr9l07ja6i3kU=
+			y2hUnZNBZYqQV11aZUgFQm1kkCeKGdWkeKJwpC7r7SA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -989,33 +1137,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cesvGnoWctW+JcvUT9bmKUnrb28=
+			NWgkq+mfu32At7kaG/vNJ3M7Iv4=
 			</data>
 			<key>hash2</key>
 			<data>
-			kIv2OzMVm/uXKU+SpI6xnrT4zE124FMcApK+HtV4+QA=
+			QdrlXeRfBcP1SufJJunb5UfDIP+9+dPMh4Jbd9lFW1c=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bpWaQv/iQv1ynyrrXJ47/3ae4p4=
+			k0iWttR6g+DUku+GSgrOipFRuI4=
 			</data>
 			<key>hash2</key>
 			<data>
-			AVgIOYy3h+iKYNoLZ9scoWXJXWd+BZ76WGe1S0ftlx4=
+			OR2XjrFVZlVeRmcRFHhsKCcnNTAVOEvbuha32RsIrls=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lILml1/Dm8FIsisqu4EM3Kg929Q=
+			Qu96fY9Ih7FUp1muInLoIzOEm30=
 			</data>
 			<key>hash2</key>
 			<data>
-			YwkPE2N7k/su9XjVFpdeoUy7GFY9DEY+G4h3aEyC1dg=
+			Lw+es4+Y/4CdpLE0X8oybAE/a9qGjmXxd70+B7XKg4g=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/LICENSE</key>
@@ -1044,22 +1192,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			64Dopa22pFdedRvbC1i5TzhO8UU=
+			Z2ICrHK+jrge57+K8dZOkuVFwKY=
 			</data>
 			<key>hash2</key>
 			<data>
-			aQ/Rtr+y5h2yldH8X3r8IDkVK/2RIISSCRfD4q1T0WE=
+			kcz1ANP+MdH/BQZeW3zEkSAvrAvZQ5Ei0fQkWfzKxSg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hKieZrPiHtLlc38B8eWRvkoPxLo=
+			6FI3LWwMgC9W0jkub/o8aXROWUk=
 			</data>
 			<key>hash2</key>
 			<data>
-			oAykdR6UAjtn2a7dbfIzEuIZBnZ0D8/LHRR98sSofc0=
+			MBWnKlSNgn1zKI/2/B/eNohHiaE19/66AfpJAo3Jsis=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/lib/assets/Exo-Regular.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ug9FQhbojCYEGH0WlVzXKeMfBMY=
+			</data>
+			<key>hash2</key>
+			<data>
+			deQYwhSbB2h4kKHogcipJRMyxYDgY+6uUGzV2b9kl2g=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/lib/assets/Exo-SemiBold.ttf</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HB3unVFLRgOtRdzjJ4sYAgcuRMk=
+			</data>
+			<key>hash2</key>
+			<data>
+			gJFxBtoSf+zH67f43xgonDMFyTYJZdPurIdZiGAflTg=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/lib/assets/shield-icon.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YE4Ss51HRVHQOiFSSeSH048yXJc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Cpc2QlYeJ5Zhf/OPi/U1t/bPiLR8ZIsNwbrxPnrAT0M=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -1088,44 +1269,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Jhsc/JSwwECveCMiSUgDkVyaTOM=
+			9/Sg3xz36iaqQAEPm7T0k2zXcgk=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ejvev3fZQ58zPrIH0mMYEfvRIPa6JuUuVy0mYiHUvRA=
+			D6DyCLPkZxFO4v3Insr+wJXtdDwBQpE12Cia0eqJyuQ=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GjQhLCd9d3/3DmwG9WXPSBS9/6o=
+			giEetwVx02V2y+Xhe2FY4ef5gVE=
 			</data>
 			<key>hash2</key>
 			<data>
-			KpcBuQKm18yp0xf8gZGV7u4TDmL5ScdBJUK31+VIZSo=
+			OvrVKoS5+xwiJCtKR8ih+UcyMPtOKTb2K+s61iguSVQ=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			627oQ/UgRfGT5/ULRUpMqh9ZDqA=
+			mnHPxuhcDNdFJvCm3D3rP4L3JYg=
 			</data>
 			<key>hash2</key>
 			<data>
-			00bIEpF2ZXHJ6pIU4NriNu3Z7rhXxWqtJ/1ZRDKk/rQ=
+			LVXNs8r0Rv7SkZ9kqaCraw4M+PGKQgxl9/3DnnwzW8s=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			nAw0LCeS3b/MkvLl6UkiGExQYpw=
+			9uSQKxx4E6VK6MVahP0SjlrD0vg=
 			</data>
 			<key>hash2</key>
 			<data>
-			YdLbbW87/fX5NKMBCgUyMsE+Yk40q25fEKSdF3LnQq8=
+			DX11c/GHRUh/kIAMvx3fMYJWCQk1Ai2JA3HX0ksPBFg=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
@@ -1143,35 +1324,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OXl6DtAMXKAsTtqcRU+KUGvVvew=
+			H+n1jL1BdOFX3WFRTIVMgbY3YKU=
 			</data>
 			<key>hash2</key>
 			<data>
-			5Bd24W5jZXPwzKASnZ7pyjOYtXfA3aVNPWS3TWXUWNQ=
+			f1b93lUVpNfHTiZ4PeMgmvVbbQ8fo0Y+sEgfL1cFKm4=
 			</data>
 		</dict>
-		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/9FQ-Lp-0ig-view-heT-3f-YxA.nib/objects-13.0+.nib</key>
+		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/9FQ-Lp-0ig-view-heT-3f-YxA.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Kyt4OxN2J6seBqe78VoFKTa7pYw=
+			X41jrYGW+Mpa3e4FCOsk9YveoYE=
 			</data>
 			<key>hash2</key>
 			<data>
-			CE7AGRX52cu/G98DMaVD9lLnGJ4Xo0fEH0TDUWsrdOw=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/9FQ-Lp-0ig-view-heT-3f-YxA.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			PW17oNfqRXvYM5WHyDA/rRrDvX8=
-			</data>
-			<key>hash2</key>
-			<data>
-			5+7zeca1A6Wy2vmJ5UOwMIpZJb2Q+rqbd/HRB2owSW0=
+			rX4xjqBWb3SuiS6HkqnBdyVZGLqow+Pe4RX160FiO7w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1189,74 +1357,285 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/RootNavigationController.nib/objects-13.0+.nib</key>
+		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/RootNavigationController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8gITiGFroF3xeiAetVAAfpBvjsU=
+			oUX2H8b4ahOM/Qg9qhPJf+ivD3o=
 			</data>
 			<key>hash2</key>
 			<data>
-			RY6u2YkkVF2DXuF5tChS/jvZv/QuYgB1FS/813kEI/4=
+			yqqxD6cQNLnbyqUD9Ml1oy21gzlgH80TNNyG1WA4MDY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/Base.lproj/FrameworkStoryboard.storyboardc/RootNavigationController.nib/runtime.nib</key>
+		<key>Frameworks/Passbase.framework/Base.lproj/PassbaseButton.nib/objects-11.0+.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pKbHCwsNx0iZYgie9iftxvD5Py4=
+			p5jyyM4APSgNquNshR2GS4UT3lY=
 			</data>
 			<key>hash2</key>
 			<data>
-			0l2bl6r8FODtyksgAhiAIbDH/C9H1mCPmaIl05N3OS4=
+			lFhlXpYEBgatfGKGqCZDV6vOc5N1nOnwCewE/bdipZY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/IDGIF.gif</key>
+		<key>Frameworks/Passbase.framework/Base.lproj/PassbaseButton.nib/runtime.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZNBJWR3e0+/+ve8jfntiSCIxUjo=
+			Yr1Yqa2B5fW36CR/k3LzX4BqYCo=
 			</data>
 			<key>hash2</key>
 			<data>
-			A02qMzUv3ZCCiAOZypg/fI0CXENG7PzKJPAbsaBhu94=
+			lKhnYCJXYECI9rkXB+Fw1AQ86zid7rRtnKn1wpMm3Gk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/DRIVERS_LICENSE.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BkjygScOXFn9O4R7enWU9OX96QY=
+			</data>
+			<key>hash2</key>
+			<data>
+			plZpk7LPXbcwgB6oouf7/uLVqsUuENLKCQhYI6m5CNc=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/DRIVERS_LICENSE_BACK.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+dflBI0ub9bjTX53fTVgAtpSD4I=
+			</data>
+			<key>hash2</key>
+			<data>
+			BPdVrN8shQBZgPSvslCS9hJNmz1ZBVfxmpEuIcRAN3E=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/DRIVERS_LICENSE_BACK_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dKFGnO1aIdKfc5AR36NAYUHONao=
+			</data>
+			<key>hash2</key>
+			<data>
+			5e2JhgUvxUpS+Cw6uaF6Unsb5Z/7KGbaOTI+cGwva8U=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/DRIVERS_LICENSE_FRONT.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s5W//1oYd0l6tNr0/sa8GO1B0Ng=
+			</data>
+			<key>hash2</key>
+			<data>
+			if9L6ByQW3W29gkrO+mXiwIBPfyxSKlwRYxjClSR3AU=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/DRIVERS_LICENSE_FRONT_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oWpgXhGTsZIA6Isj35X5vA9YqIg=
+			</data>
+			<key>hash2</key>
+			<data>
+			waALda0za+6h3bDn1qQ71QuAnDXZfypC76jj/dMddNI=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/HEALTH_INSURANCE_CARD_BACK.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+WJpMNHqqo4bkwIAg+Nm5ZHleio=
+			</data>
+			<key>hash2</key>
+			<data>
+			zW1XUHyVz5N5YVC0jVp5NHSB3nJTEtSaYneCWBOc0hs=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/HEALTH_INSURANCE_CARD_BACK_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Qzg2DY5C4PqfKz3V4uWwefWVgCA=
+			</data>
+			<key>hash2</key>
+			<data>
+			oED6tqvgl/3GJZoPhUZW1FOLQ9TVb8+fGbYJ+AEkdEE=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/HEALTH_INSURANCE_CARD_FRONT.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LA4k7O5sJU5dEMJ0/9+AWHq6DXM=
+			</data>
+			<key>hash2</key>
+			<data>
+			T/WTYS3MSshQBg9pcUurKFUcjxsx5YBnuIJwcFEWsZE=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/HEALTH_INSURANCE_CARD_FRONT_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AAaRCfY+Gv1RGynVf418SVkvR6Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			+6InlEh0nftjzIaxbI3U3vIZWceMfWqOGmHwrWEQkDg=
 			</data>
 		</dict>
 		<key>Frameworks/Passbase.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0WUuPVOS5273TNMqSNo539iAZ1U=
+			GpWLyEHQLMj2uOVdDB9hWOe+fnk=
 			</data>
 			<key>hash2</key>
 			<data>
-			O+RQCviCkrHw3DE99KE/0LbasoBu522CFyUi1gsMu1o=
+			OUNeOI1vQWvydDQGeOw7DCBKObxd4uW648mDTmIspCI=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/NATIONAL_ID_CARD.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aMyhe9ikbrX/WsRPHQ6LjO024YQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			T5NzBDgZZ90HvCqUGWIEag0lX6FsXsexsDz6pla3uX4=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/NATIONAL_ID_CARD_BACK.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jxL+f87o6UZ2C0BJ1NUA8o2jUt0=
+			</data>
+			<key>hash2</key>
+			<data>
+			rBv/12uEIUMciJ41guFXAcu+56ljJfhePF6VLWS+/RM=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/NATIONAL_ID_CARD_BACK_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OyUl9rZBkpwUOJblKO09djNYKco=
+			</data>
+			<key>hash2</key>
+			<data>
+			dcFsWzA+rTuLKicv7mJHgkLViV4b5Cw7iI5IWGuMVYU=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/NATIONAL_ID_CARD_FRONT.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T7wn1e0/RwEwJLIw03CGLDzxZgE=
+			</data>
+			<key>hash2</key>
+			<data>
+			PsG7EsSmA9Ui/BQvBJX4X4LNl0tayULp72LeXbTd0TE=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/NATIONAL_ID_CARD_FRONT_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TlisU/ZFyyDaAZin0jSxck5dAIA=
+			</data>
+			<key>hash2</key>
+			<data>
+			YzmmwyLTvWYd5BuLhuszAWtXpbz4Hqg5SWzq3ypPbOs=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/PASSPORT.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ahTdtEf/033Qu5t5WqyTAm+F65M=
+			</data>
+			<key>hash2</key>
+			<data>
+			9j1haqFfdlbYHwse52gw8pR0Lc7+LdNl/SrGQrm0bXY=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/PASSPORT_FRONT.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KfVjz5keCRsdKFofIiXVxgLwx08=
+			</data>
+			<key>hash2</key>
+			<data>
+			dCKKccY+1Gg8ydni8tjMFlGTwTqe7NSoNL/8zaxj9rc=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/PASSPORT_FRONT_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PdnfRV5o8fUV8DFMXrBhV58DbFw=
+			</data>
+			<key>hash2</key>
+			<data>
+			BL3+1bOlnc6PiKpns2jHITTSopQ3kq5yjCsGm6Hmpu8=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/PROOF_OF_ADDRESS.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CB1JsgEs/XQ6wItQBnlRyCg0gZI=
+			</data>
+			<key>hash2</key>
+			<data>
+			yP5mD7tQQJwDGjlqBgWgatGA0isRxnvE0HZIhNVGRTk=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/PROOF_OF_ADDRESS_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7nGuI/H0iYu/0JCcwcoM+/BPu2c=
+			</data>
+			<key>hash2</key>
+			<data>
+			0OQ9RYj3EVCdbzDo9gts73dSdtQkuMJTotRU+gulVHg=
 			</data>
 		</dict>
 		<key>Frameworks/Passbase.framework/Passbase</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ul851t0h1bZF7jCNXC7XHoa/e1E=
+			odxJU12xhMbY3py3PwbR3kRIH+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			f3iAhSz9uLq7bhxcgggSUHkxueTQqB6EYdvBssCH/5E=
+			oqj0mVMbLxFlI43kymBkPqCoo+4X+LB4WnZVN1NvFfA=
 			</data>
 		</dict>
 		<key>Frameworks/Passbase.framework/Passbase.podspec</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ikCVzUjXXAnbrA+70ILuRHKZo0w=
+			F6UAVT6xqvY7aZeaw15Mft2Cbk8=
 			</data>
 			<key>hash2</key>
 			<data>
-			AARjlokHIm7LHyUpwWjU5bIxbHFynlG3VZ7+tdGaPB0=
+			PKQDqXybNnRyq88SUKqFGqR8NQDye8tVJ0cLT5MPhVA=
 			</data>
 		</dict>
 		<key>Frameworks/Passbase.framework/START.gif</key>
@@ -1270,76 +1649,113 @@
 			Bsd+HD90oBOPwo0AUPqjCY08idjx5Bdq3YOpKgkXJmo=
 			</data>
 		</dict>
+		<key>Frameworks/Passbase.framework/START_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/+4OhcDhP1ZH25Gs3ix0MVOKDt8=
+			</data>
+			<key>hash2</key>
+			<data>
+			ksCGY+xj8sSjB4LdMXHZXJHTOR2SfvFM/+ASa2vhhDs=
+			</data>
+		</dict>
 		<key>Frameworks/Passbase.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vaQplTHTWfO9K9UuNTknOql00dI=
+			GSDmG8yNAuipWh4zV7G14J35YT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			C+XC/Pz52KhId/Z3PizNQd1XP5EFN3mpvd7SfhKbV4o=
+			uKmRlqY9B2VAaJvNnr0QN5Cm4t67Y9bGR5uYVgO/jTw=
 			</data>
 		</dict>
 		<key>Frameworks/Passbase.framework/countries.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KJKXF8bL8ETgSaiOMl1aWnhg2L4=
+			PNlpEtv48I3NqXrJKtKyP9uogNU=
 			</data>
 			<key>hash2</key>
 			<data>
-			4XDbBr30bv9CvB4xGiRCNDsHP3MLdmfG33MUt4L7/MY=
+			lN9n1oiwhlSbn/J5hn6XYfHLUb9iAg+JbalukMCEL18=
 			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/da.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XrcOIip+pcLU2Cdt1fdGJ4tgpKA=
+			</data>
+			<key>hash2</key>
+			<data>
+			Do2uGJSCPvg+M5ixp9Vll/KJDffR4q+XNyJYmPkB4iY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/da.lproj/PassbaseButton.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i4MEIEaSRKd/62214xpQf+uz2Sw=
+			</data>
+			<key>hash2</key>
+			<data>
+			fAB+8sE2gNDsgEYk7dvlJMuOq5RumLJar3ULES5djwE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/da.lproj/Zoom.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hLkdcghVNxgdNr538PtN4YLkD+g=
+			</data>
+			<key>hash2</key>
+			<data>
+			zsJ8+bKg+sZCkOvjoWigT1ImoO1/TPr5etTltEa9Muc=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>Frameworks/Passbase.framework/de.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iCYbOxEKvi9NE1q7DFOHU+SwGBY=
+			MDHR/k0ygacfYbKpBSvHyTmvvr0=
 			</data>
 			<key>hash2</key>
 			<data>
-			eqxeqpf6l1BKmNzL00yK2eJgKAg9dciF6qg6aj1s0VA=
+			1iWs0g+mLF82z2W+9TV0N/RDD+IlRGoWeIGaaabxCn0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/de.lproj/PassbaseButton.nib/objects-11.0+.nib</key>
+		<key>Frameworks/Passbase.framework/de.lproj/PassbaseButton.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BNmSpV9QFN4lrcQmFmcjrqKJJWc=
+			CPKTh2lSDHYdOFOCtlqMAvB8Op4=
 			</data>
 			<key>hash2</key>
 			<data>
-			sK4WwcL51AH+8vmaz/tq88iMvBinnrCwI7xicsxF7Bk=
+			XLEWrpLVL77MngAbEHpTuPeWHGdvDtOEogesmpS8Kz0=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/de.lproj/PassbaseButton.nib/objects-13.0+.nib</key>
+		<key>Frameworks/Passbase.framework/de.lproj/Zoom.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6sTXOmFmTWmjwRcSRPbgZxHE+8E=
+			RAHxfcuOIDze7J6/PUXriWM71lU=
 			</data>
 			<key>hash2</key>
 			<data>
-			VxOqcM5dQttJw4iqCxlbv5jGxLYkZUbdRiW1qCYKq9E=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/Passbase.framework/de.lproj/PassbaseButton.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			q8C90/7ypbxTAyC67pD1xtMfjOo=
-			</data>
-			<key>hash2</key>
-			<data>
-			tvfThhsBPw+XZskWpDwZEUuLei3AWwToYpt38x3+Kgg=
+			AyVMBX92TBIo3U3ka0iwFB3LxCB9VCl48nNf8UNyjgY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1348,50 +1764,37 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VjuzObYInRB9mhBxTQBFQpo5pas=
+			mBV2r2WVJ8NfV0BJmNHw8FFIB7o=
 			</data>
 			<key>hash2</key>
 			<data>
-			n61NRCF/S/5VliLdsLZgguSjFzH1e6yacpQ2pChizVA=
+			F3wjwVZqcmg8kFg7LHUByJYkqg9R/BntPB0gVXncpdg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/en.lproj/PassbaseButton.nib/objects-11.0+.nib</key>
+		<key>Frameworks/Passbase.framework/en.lproj/PassbaseButton.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZsMMIn3X5TTROdjpkLQzi5T1jV8=
+			o4acor71y8dKhon3IhydL1uFIrw=
 			</data>
 			<key>hash2</key>
 			<data>
-			39h/9Z9Hhmrrzb1G4DKIEO9h78L5W/lALwiPaM4Zuv8=
+			JQASJQ6jjreiSuPpkrfUw835fX9/GXVsukgCFBqXzvg=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/en.lproj/PassbaseButton.nib/objects-13.0+.nib</key>
+		<key>Frameworks/Passbase.framework/en.lproj/Zoom.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mRjS03HVKReFg6HDixDn4JVQ3IE=
+			oeKKlJbFXCVgoiQnFnukcxxhG6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			WGufO0I9fDNuQnXhbWczHciWdPh8puMcZyCC8I9j8Vg=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/Passbase.framework/en.lproj/PassbaseButton.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ht2OIJJyG//ZiCP60OOMJmVFiTY=
-			</data>
-			<key>hash2</key>
-			<data>
-			YW+EtUVUiTNy5l6E1M68zSlUnUPwiFcnPTXeyP3ulSI=
+			hHsp/uZahnG1YG5jdynDMi4YdVbfLHKnRB0wXh1URc8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1407,54 +1810,91 @@
 			euv2aqh1uZNlHh5vgGY2qSNeAFGOyCS6oYuvcRsO/Bk=
 			</data>
 		</dict>
+		<key>Frameworks/Passbase.framework/errorGIF_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2cUlmR7uGYWCmaeaudLgOrZz/WQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			6MVR4OW8h3mTQ88e8ClzhTpcyLQwArVK5RcR9zHVOWU=
+			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uo1+3I+uguhWOpnWlgwEBHBWMrk=
+			</data>
+			<key>hash2</key>
+			<data>
+			b5dUZBbhllPs8qP133apV5h3+YBBIwSutRjIoL6OIro=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/es.lproj/PassbaseButton.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y1rmcD7/FWwGBocN6FJwRLiHtRQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			/1gUnm5lZ0YkTYthdFRv6lTA7Qi7MlP/A+XyomDLkdc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/es.lproj/Zoom.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			s4CMUSU8e4MIvZzgoFlnWQRXVVE=
+			</data>
+			<key>hash2</key>
+			<data>
+			mvyAbHsEPfSEyiTBUfDX0f5Sv5WM/opQKH4GusZCzDs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Frameworks/Passbase.framework/fr.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+3d3wcF5W/qyJW0mc5ORzd17uks=
+			c/FY3QVY0Vp5ERft3zhiVxA/VbQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			EXb/+5lM6u4yEYSfZVCTpcH2qfHwwhWKtBNLaPjHSFQ=
+			xEHiSmI58rqS/oCm921ZD8U2C+C2JSg6Ore2QrB912E=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/fr.lproj/PassbaseButton.nib/objects-11.0+.nib</key>
+		<key>Frameworks/Passbase.framework/fr.lproj/PassbaseButton.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G8klh3mjLTbFVpy0c0zNdg66+tM=
+			XbGYRDoHZrSShD4eXArYPKeeWOI=
 			</data>
 			<key>hash2</key>
 			<data>
-			e6jGlOgpBcszo7H+Jsv2AO7Gl5ROkBG5KCzkqh8qoE0=
+			ofkzZnz0WqzziupKlGI4smkJXJ5t5Qv3B/hOr0VVxpQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Frameworks/Passbase.framework/fr.lproj/PassbaseButton.nib/objects-13.0+.nib</key>
+		<key>Frameworks/Passbase.framework/fr.lproj/Zoom.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ozP4mUzp//ivYeTL7v7C+FirjjY=
+			lg+rIpYY3Oe6d3BTlXPYXJg2LkA=
 			</data>
 			<key>hash2</key>
 			<data>
-			dea7FsdioQQmFQYDHEd9m9Er197HlegXwKk9gWlU8X8=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>Frameworks/Passbase.framework/fr.lproj/PassbaseButton.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2xeRQikxqSihXhKTEGWXsNiAt2k=
-			</data>
-			<key>hash2</key>
-			<data>
-			lxbJ6cWPUZI2E3SrlimXLl5Ivus6TUMRQ9g1H/JRM6E=
+			29rHIl2EPQ2k6tRZNdpFrmk6ucYKiFGGjhVBfMbssJU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1470,6 +1910,17 @@
 			mQ/0huKB22jXSf8+Nmi9JhR6gAHI0CH2pRHxe8hT0Nk=
 			</data>
 		</dict>
+		<key>Frameworks/Passbase.framework/headGIF_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bKpsdIlUA8Q0BIgibIsWG6XfLH8=
+			</data>
+			<key>hash2</key>
+			<data>
+			RVxcRVLwzvmfMqdGE1x+i9XX50nssgTU7MQX/di8bPI=
+			</data>
+		</dict>
 		<key>Frameworks/Passbase.framework/lockGIF.gif</key>
 		<dict>
 			<key>hash</key>
@@ -1481,16 +1932,133 @@
 			evQhlUTajuxg3u7nIhCzRARTqJ3p9gGJLzAP21Hsgww=
 			</data>
 		</dict>
-		<key>Frameworks/Passbase.framework/roundArrow.gif</key>
+		<key>Frameworks/Passbase.framework/lockGIF_dark.gif</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BdOI9v1cLC0MfTJRYEXhUW/zn9E=
+			X48h+qm/dErcYVbR+gWbP8kJVxQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			IoTQI164wX+jSED+TZvbagJgmQl6cbjzjnD8MC4SUSY=
+			E21DosY4/Tkszf8FsRgLYPsdAH0QtH2NbHEEdjR42QE=
 			</data>
+		</dict>
+		<key>Frameworks/Passbase.framework/lt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			reAfWni7ItGiCNQeKLarhuotFm8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Yr9gKCts6YIXojNdDeXSyhFcgzJc4tMiKeBsakQ4Iu0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/lt.lproj/PassbaseButton.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iS9my5+ugSHJsExes0TDxUPXabM=
+			</data>
+			<key>hash2</key>
+			<data>
+			pfjAA7WosRlmAgUCsesnuZmMgrkkpOloFdCJDJlQcXY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/lt.lproj/Zoom.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qtI6EKNAQqj1/LRbkCYCJ1B2Ujk=
+			</data>
+			<key>hash2</key>
+			<data>
+			KE/xecQRsq4ri3O7whAqL0uwD2wvW+KE4uBS9R4E26k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/lv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j+c56dUDvtC0TuzmVBnICo/788o=
+			</data>
+			<key>hash2</key>
+			<data>
+			8cTIvLOIEBPitj8eJurqiQImm7i7tZxgkshhyxpE/Lc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/lv.lproj/PassbaseButton.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ed1glDUtwhG7OYfulmm/KlXg3WM=
+			</data>
+			<key>hash2</key>
+			<data>
+			zYc90dPIFqKLlvqYqu5oxh7E8WfA71crKB+KRjZkD/o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/lv.lproj/Zoom.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z+9YHGXXMPd+MvOHMjThxs0S7YI=
+			</data>
+			<key>hash2</key>
+			<data>
+			tQrfz8n9p2Qu9jqWmI2BBoHjwQDCkghIkPkGI3udnmE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B460GhstiiJ96+S8PoJnq0bzzS0=
+			</data>
+			<key>hash2</key>
+			<data>
+			NuQDk8aNwMqUreeWj5N90ilNf4FmMePlqJOGj+s1O7o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/ru.lproj/PassbaseButton.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			IHYZDJN64qs4DQV4VHXCJYgSHaA=
+			</data>
+			<key>hash2</key>
+			<data>
+			u3/ny6aut1AqavdtnnofVYpgaN+2z/kdn6Wsc1bcJc0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/Passbase.framework/ru.lproj/Zoom.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TxeYtdUR9HNrQSquPZN4f6DrbjI=
+			</data>
+			<key>hash2</key>
+			<data>
+			vcvyJqBvknL+Mywvx0LXNVGrjBeUyFqL/V4ucHQwGkw=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>Frameworks/Passbase.framework/verifiedBadge.gif</key>
 		<dict>
@@ -1503,37 +2071,48 @@
 			H1qPIpJizjJfMIdhMEcr4Po/FkM3LaW2B3X17K7LcxA=
 			</data>
 		</dict>
+		<key>Frameworks/Passbase.framework/verifiedBadge_dark.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WjxmxLJiVC2881ui2Dr1mFOXUmE=
+			</data>
+			<key>hash2</key>
+			<data>
+			Pp8tc/jTGyCK+RMOtsQveBJ8hrZzMRxGgaK6QYj/swo=
+			</data>
+		</dict>
 		<key>Frameworks/Sentry.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Gi2HcFBN7sYtCsi9a5tFTJ/YvzM=
+			ObMrAYOoDf9Z1rhAAr+Jnez0nXw=
 			</data>
 			<key>hash2</key>
 			<data>
-			xhCedXSesWHioBZJeLXvo2UE0msCJImBBri43KjTX8A=
+			eoipqvBA6LeDv89dX96+OMIfCvFeLRe4gLptahRfWTU=
 			</data>
 		</dict>
 		<key>Frameworks/Sentry.framework/Sentry</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			cq7am3z4eRLOTC5XdOk9ViKciv0=
+			F0CAFJ//zm0wSius5QRdJGh2Hlo=
 			</data>
 			<key>hash2</key>
 			<data>
-			fDKJIaVUqrFnffx5nhdnUT9tCgn8kg4X9/Mib6tpVo8=
+			mpwUUaso0dPBGjylF2jABbp19OpMm0/XBEtNxoYk5lk=
 			</data>
 		</dict>
 		<key>Frameworks/Sentry.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jv643wD16pQji8k810VIhaj016g=
+			pA59rRzE2PDPJ1YrO/BneJa+3To=
 			</data>
 			<key>hash2</key>
 			<data>
-			hTu2wU28ZGGMAd6RLcjeINIKOKSZrTvrhOavccHRHgQ=
+			XCa3B9qLB6xmpC07kPqtekn1F89SMzYWolM7ii0zRkU=
 			</data>
 		</dict>
 		<key>Frameworks/ZoomAuthenticationHybrid.framework/Assets.car</key>
@@ -2026,55 +2605,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g6orrG46Fu0InC7nKfEOo09cpAU=
+			bn72U8GsKiYuZeviYwsk+vS6pkk=
 			</data>
 			<key>hash2</key>
 			<data>
-			BJK8EartKIvfecdypnQak6n72ihY4bzcg75ocw6fPiw=
+			5yevu2pIzaePvyZc+hdG0oa4ELIQ6sn5l2tEhj5uyMM=
 			</data>
 		</dict>
 		<key>Frameworks/passbase_flutter.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			J9s0KBgT5SS8mLK5qseasYu0Xjg=
+			G+Gg/po4cQicHRUAmI77QC6Pwz4=
 			</data>
 			<key>hash2</key>
 			<data>
-			vp3GWEZ41PdCQem++HyNr5nmscujHyGfzrn1Rih6CH0=
+			0Mtk0xneg15z0MuV/nTGZSEaUP6rlUfe4t3zqL1A+yQ=
 			</data>
 		</dict>
 		<key>Frameworks/passbase_flutter.framework/passbase_flutter</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ueey9syRFgvbP8qVaItfQQCG2Qo=
+			4PSS9Is7e2PpX0pPHNtA8kpu0K4=
 			</data>
 			<key>hash2</key>
 			<data>
-			i/RlPNVfnM5AFGxLMuYzeSQGKT89aqc9JcFEdFIdXh4=
+			ddr1jaucvG5P1zocmgZV+2q3jRUgm0RQEJobEkShm04=
 			</data>
 		</dict>
 		<key>Passbase.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hFMcYJrP5DsuhwN9CNh4pKnGojk=
+			5DToOPUesZaQ+9n226yMxFNKTgo=
 			</data>
 			<key>hash2</key>
 			<data>
-			kDgSLi6Uang1uSGjYunCb5hQRI4mW8WcZfbPyJlL7Z8=
+			aL2A4cGDipGVe/ASCJxHcf2CqrbkVyZUt9ibMwjsCjY=
 			</data>
 		</dict>
 		<key>Passbase.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A9TGhU9b5noFKZC5hK39LqmAq38=
+			kX0nY5dpqxwbPjqP0kGk6iNEsLk=
 			</data>
 			<key>hash2</key>
 			<data>
-			fheXd09PaChjnnmYKmcp15fyroReGUfLj2KapCdUU5A=
+			sEES+WMyvE1nfUnPRKB2iFae4GYb3LIj8Bha+ZXWWr8=
 			</data>
 		</dict>
 		<key>Passbase.bundle/_CodeSignature/CodeRequirements</key>
@@ -2092,11 +2671,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n/w7QjwqcQyw9MZr0VW4FlZdqNY=
+			dLtHzLL7PyybM9BzhdbkqEjbRxI=
 			</data>
 			<key>hash2</key>
 			<data>
-			GR6t924fYS0mF5Wz0TrjE0+UKa+vYvf0wChnMr8UsIc=
+			j7ilrkUVbJD786Rk1sxNSQaXblo3fyhcaRSjRMM3ffI=
 			</data>
 		</dict>
 		<key>Passbase.bundle/_CodeSignature/CodeResources</key>
