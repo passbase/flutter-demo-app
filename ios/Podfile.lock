@@ -18,7 +18,7 @@ DEPENDENCIES:
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
     - Sentry
-  https://github.com/passbase/cocoapods-specs.git:
+  https://github.com/passbase/cocoapods-specs:
     - Passbase
   https://github.com/passbase/zoom-cocoapods-specs.git:
     - ZoomAuthenticationHybrid

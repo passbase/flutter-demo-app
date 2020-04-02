@@ -22,16 +22,18 @@ class PassbaseDemoHomePage extends StatefulWidget {
 
   @override
   _PassbaseDemoHomePageState createState() {
-    PassbaseFlutter.initialize(apiKey: "YOUR_PUBLISHABLE_API_KEY");
+    PassbaseFlutter.initialize(
+        apiKey:
+            "YOUR_OWN_PUBLISHABLE_API_KEY");
 
-    PassbaseFlutter.buttonUI.setActionButtonBgColor(color: Colors.red);
-    PassbaseFlutter.buttonUI.setSubtitleTextColor(color: Colors.red);
-    PassbaseFlutter.buttonUI.setLoadingIndicatorColor(color: Colors.red);
-    PassbaseFlutter.buttonUI.setTitleTextColor(color: Colors.red);
-    PassbaseFlutter.buttonUI.setDisclaimerTextColor(color: Colors.red);
-    PassbaseFlutter.buttonUI.setActionButtonTextColor(color: Colors.white);
-    PassbaseFlutter.buttonUI
-        .setActionButtonDeactivatedBgColor(color: Colors.red.withAlpha(30));
+    // PassbaseFlutter.buttonUI.setActionButtonBgColor(color: Colors.red);
+    // PassbaseFlutter.buttonUI.setSubtitleTextColor(color: Colors.red);
+    // PassbaseFlutter.buttonUI.setLoadingIndicatorColor(color: Colors.red);
+    // PassbaseFlutter.buttonUI.setTitleTextColor(color: Colors.red);
+    // PassbaseFlutter.buttonUI.setDisclaimerTextColor(color: Colors.red);
+    // PassbaseFlutter.buttonUI.setActionButtonTextColor(color: Colors.white);
+    // PassbaseFlutter.buttonUI
+    //     .setActionButtonDeactivatedBgColor(color: Colors.red.withAlpha(30));
 
     return _PassbaseDemoHomePageState();
   }

@@ -12,6 +12,8 @@ Ensure that you are using an up to date version for Flutter. You will also need 
 
 ## Install the App & Run
 
+You can follow our [integration guide](https://docs.passbase.com/integrations/flutter) to correctly install the Passbase Package. To run the Demo app please do the folllwing:
+
 1. Open Terminal in project folder and run `flutter packages get`
-2. Exchange `YOUR_OWN_PUBLISHABLE_API_KEY` with your own API key
+2. Exchange `YOUR_OWN_PUBLISHABLE_API_KEY` with your own API key in the file `main.dart` line 26 in the lib folder.
 3. Build and run the App
