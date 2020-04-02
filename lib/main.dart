@@ -8,6 +8,7 @@ class PassbaseFlutterDemoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
@@ -21,9 +22,7 @@ class PassbaseDemoHomePage extends StatefulWidget {
 
   @override
   _PassbaseDemoHomePageState createState() {
-    PassbaseFlutter.initialize(
-        apiKey:
-            "YOUR_PUBLISHABLE_API_KEY");
+    PassbaseFlutter.initialize(apiKey: "YOUR_PUBLISHABLE_API_KEY");
 
     PassbaseFlutter.buttonUI.setActionButtonBgColor(color: Colors.red);
     PassbaseFlutter.buttonUI.setSubtitleTextColor(color: Colors.red);
@@ -42,46 +41,61 @@ class _PassbaseDemoHomePageState extends State<PassbaseDemoHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      backgroundColor: Color.fromARGB(255, 50, 107, 236),
       body: Center(
         child: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: <Widget>[
-            PassbaseButton(
-              onVerificationSuccess: (authKey) {
-                // do stuff in case of success
-                print(authKey);
-              },
-              onVerificationCancel: () {
-                // do stuff in case of cancel
-                print("cancel");
-              },
-              backgroundColor: Colors.white,
-              width: 300,
-              height: 70,
-            ),
-            SizedBox(
-              height: 20,
-            ),
-            FlatButton(
-              child: Container(
-                width: 200,
-                child: Center(
-                  child: Text("Start verification"),
-                ),
+            Padding(
+              padding: EdgeInsets.only(top: 80),
+              child: Image.asset(
+                'lib/assets/shield-icon.png',
+                width: 50,
+                height: 50,
               ),
-              onPressed: () async {
-                await PassbaseFlutter.startVerification(
-                  onVerificationSuccess: (authKey) {
-                    // do stuff in case of success
-                    print(authKey);
-                  },
-                  onVerificationCancel: () {
-                    // do stuff in case of cancel
-                    print("cancel");
-                  },
-                );
-              },
+            ),
+            Container(
+              padding: EdgeInsets.symmetric(horizontal: 45),
+              child: Column(
+                children: <Widget>[
+                  Text(
+                    'Welcome to Passbase',
+                    style: TextStyle(
+                        fontSize: 25,
+                        color: Colors.white,
+                        fontFamily: 'Exo',
+                        fontWeight: FontWeight.w600),
+                  ),
+                  SizedBox(
+                    height: 25,
+                  ),
+                  Text(
+                    'Start your first verification by clicking on the button below.',
+                    style: TextStyle(
+                      fontSize: 15,
+                      color: Colors.white,
+                      fontFamily: 'Exo',
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                ],
+              ),
+            ),
+            Padding(
+              padding: EdgeInsets.only(bottom: 70),
+              child: PassbaseButton(
+                onVerificationSuccess: (authKey) {
+                  // do stuff in case of success
+                  print(authKey);
+                },
+                onVerificationCancel: () {
+                  // do stuff in case of cancel
+                  print("cancel");
+                },
+                backgroundColor: Colors.white,
+                width: 300,
+                height: 60,
+              ),
             ),
           ],
         ),

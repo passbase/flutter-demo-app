@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Eiti į pagrindinį puslapį"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Naršyti aukštyn"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Daugiau parinkčių"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Atlikta"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Žr. viską"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Pasirinkite programą"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"IŠJUNGTI"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ĮJUNGTI"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"„Alt“ +"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"„Ctrl“ +"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"„delete“"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"„enter“"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"„Function“ +"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"„Meta“ +"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"„Shift“ +"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"„space“"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"„Sym“ +"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"„Menu“ +"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Ieškoti…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Išvalyti užklausą"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Paieškos užklausa"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Ieškoti"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Pateikti užklausą"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Paieška balsu"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Bendrinti su"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Bendrinti naudojant programą „<ns1:g id="APPLICATION_NAME">%s</ns1:g>“"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Sutraukti"</string>
+    <string name="choose_a_country_from_the_drop_down_menu_that_issued_your_identity_document">Daug lengviau patikrinti, kai žinome, kur ieškoti.</string>
+    <string name="choose_a_document_type_to_scan">Daug lengviau patikrinti, kai žinome, kur ieškoti.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Įgalinti"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ neveiks, jei neįgalinsite „Google Play“ paslaugų."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Įgalinkite „Google Play“ paslaugas"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Įdiegti"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Programa „<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurių nėra įrenginyje."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Gaukite „Google Play“ paslaugas"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"„Google Play“ paslaugų pasiekiamumas"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"„Google Play“ paslaugų klaida"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Naudojant programą „<ns1:g id="APP_NAME">%1$s</ns1:g>“ kilo problemų dėl „Google Play“ paslaugų. Bandykite dar kartą."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Programa „<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurių jūsų įrenginys nepalaiko."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Atnaujinti"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama, jei neatnaujinsite „Google Play“ paslaugų."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Atnaujinkite „Google Play“ paslaugas"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ nebus paleidžiama be „Google Play“ paslaugų, kurios šiuo metu atnaujinamos."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Reikia naujos versijos „Google Play“ paslaugų. Jos netrukus bus atnaujintos."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Atidaryti telefone"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Prisijungti"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Prisijungti naudojant „Google“"</string>
+    <string name="confirm">Patvirtinti</string>
+    <string name="congrats_you_are_done">Sveikiname! Sėkmingai pateikėte savo informaciją.</string>
+    <string name="continue_s">Tęsti</string>
+    <string name="corners_recognized">%1$d/4 kampai atpažinti.</string>
+    <string name="current_location">Dabartinė buvimo vieta</string>
+    <string name="driving_license">Vairuotojo pažymėjimas</string>
+    <string name="driving_license_type">vairuotojo pažymėjimo</string>
+    <string name="email_address">El. pašto adresas</string>
+    <string name="enter_your_email_to_start">Įveskite savo el. paštą</string>
+    <string name="everything_readable">• Ar lengvai įskaitote tekstą?</string>
+    <string name="finish">Pabaigti</string>
+    <string name="great_id_detected">Puiku. Asmens dokumentas aptiktas.</string>
+    <string name="health_insurance_card">Sveikatos draudimo kortelė</string>
+    <string name="health_insurance_card_type">sveikatos draudimo kortelės</string>
+    <string name="help_to_process_faster">Padėkite mums apdoroti duomenis greičiau</string>
+    <string name="hold_stay_for">Laikykite stabiliai %1$ds</string>
+    <string name="id_not_blurred">• Ar matote visą dokumento vaizdą?</string>
+    <string name="if_you_already_have_done_a_verification_with_passbase_in_the_past_it_s_even_quicker">Turėsite galimybę stebėti, kas turi prieigą prie jūsų tapatybės informacijos.</string>
+    <string name="name_example_com">tavo@email.com</string>
+    <string name="national_id_card">Asmens tapatybės kortelė</string>
+    <string name="national_id_card_type">asmens tapatybės kortelės</string>
+    <string name="passport">Pasas</string>
+    <string name="passport_type">Pasas</string>
+    <string name="please_enter_a_valid_email_address">Įveskite galiojantį el. pašto adresą.</string>
+    <string name="prepare_your_document_are_ready_for_the_next_step">Aiškiai nufotografuokite dokumentą kitame ekrane</string>
+    <string name="processing_document">Dokumentas apdorojamas</string>
+    <string name="proof_of_address">Gyvenamosios vietos adreso patvirtinimas</string>
+    <string name="proof_of_address_type">gyvenamąją vietą įrodančio dokumento</string>
+    <string name="proof_that_you_are_a_real_person_by_simply_following_the_instructions_in_the_next_step">Sekite instrukcijas, kaip įrašyti savo video kitame ekrane.</string>
+    <string name="record_a_selfie_video_and_scan_your_identity_document">Patvirtinkite savo tapatybę asmenuke ir asmens dokumento nuotrauka</string>
+    <string name="redo">Perdaryti</string>
+    <string name="scan_back_side">Įrėminkite tapatybės dokumentą į kadrą</string>
+    <string name="scan_front_side">Įrėminkite tapatybės dokumentą į kadrą</string>
+    <string name="scan_the_side_of_your_doc">Skenuokite %2$s %1$s pusę</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Ieškoti"</string>
+    <string name="securely_tip_1">Jūsų video įrašas naudojamas užtikrinti, kad tai tikrai jūs ir niekas kitas neapsimeta jumis. Įrašas taip pat bus palyginimas su nuotrauka jūsų asmens tapatybės dokumente.</string>
+    <string name="securely_tip_2">Jūsų asmens dokumentas naudojamas užtikrinti, ar esate, kas sakote esą.</string>
+    <string name="securely_tip_3">Jūsų el. paštas naudojamas, kad galėtume jums atsiųsti kvitą ir kad jūs galėtumėte stebėti, kad turi priėjimą prie jūsų duomenų.</string>
+    <string name="securely_tip_4">Jūsų buvimo vieta naudojama norint nustatyti bet kokius galimus neteisėtus veiksmus ir apsaugoti jūsų paskyrą.</string>
+    <string name="securely_tip_5">Šiame dokumente tikrintojui pateikiama papildoma informacija, skirta praturtinti konkrečius jūsų tapatybės duomenų taškus.</string>
+    <string name="select_country">Pasirinkite šalį</string>
+    <string name="select_your_identity_document">Kurį dokumentą skenuosite?</string>
+    <string name="show_side_of_your">• Ar rodoma %1$s jūsų %2$s pusė?</string>
+    <string name="side_back">galas</string>
+    <string name="side_front">priekis</string>
+    <string name="something_went_wrong">Kažkas nepavyko</string>
+    <string name="start">Pradėti</string>
+    <string name="start_camera">Pradėti filmuoti</string>
+    <string name="start_notice">Spausdami \"Pradėti\", sutinkate su mūsų <a href="https://passbase.com/verification-terms/">Taisyklėmis ir nuostatomis</a> bei <a href="https://passbase.com/privacy/">Privatumo politika</a>.</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="take_a_short_selfie_video">Įrašykite trumpą video, kuriame matotės jūs</string>
+    <string name="take_it_manually">Fotografuokite rankiniu būdu.</string>
+    <string name="try_again">Bandyk iš naujo</string>
+    <string name="uploading">įkelta</string>
+    <string name="verify_me">Patvirtinkite mane</string>
+    <string name="verify_your_identity_now">Pradėti patvirtinimą</string>
+    <string name="video_selfie">Įrašykite savo video</string>
+    <string name="we_securely_transfer_your_data_now">Saugiai perduokite savo duomenis</string>
+    <string name="where_was_your_identity_document_issued">Iš kur jūsų dokumentas?</string>
+    <string name="your_verification_is_now_in_process">Šiuo metu vyksta jūsų patvirtinimas</string>
+</resources>

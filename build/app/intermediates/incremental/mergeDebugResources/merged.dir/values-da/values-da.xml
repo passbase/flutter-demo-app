@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"Find hjem"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"Gå op"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"Flere valgmuligheder"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"Udfør"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"Vælg en app"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"FRA"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"TIL"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"slet"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Fn+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"mellemrum"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"Søg…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"Ryd forespørgsel"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"Søgeforespørgsel"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"Søg"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"Indsend forespørgsel"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"Talesøgning"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"Del med <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="choose_a_country_from_the_drop_down_menu_that_issued_your_identity_document">Det er meget lettere at verificere, når vi ved, hvor vi skal kigge efter.</string>
+    <string name="choose_a_document_type_to_scan">Det er meget lettere at verificere, når vi ved, hvor vi skal kigge efter.</string>
+    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivér"</string>
+    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Du skal aktivere Google Play-tjenester, for at <ns1:g id="APP_NAME">%1$s</ns1:g> kan fungere."</string>
+    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Aktivér Google Play-tjenester"</string>
+    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"Installer"</string>
+    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Du skal installere Google Play-tjenester, før <ns1:g id="APP_NAME">%1$s</ns1:g> kan køre på din enhed."</string>
+    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Hent Google Play-tjenester"</string>
+    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"Google Play-tjenesters tilgængelighed"</string>
+    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Fejl i Google Play-tjenester"</string>
+    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> har problemer med Google Play-tjenester. Prøv igen."</string>
+    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed."</string>
+    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Opdater"</string>
+    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan ikke køre, medmindre du opdaterer Google Play-tjenester."</string>
+    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Opdater Google Play-tjenester"</string>
+    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> kan ikke køre uden Google Play-tjenester, som i øjeblikket opdateres."</string>
+    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Du skal bruge en ny version af Google Play-tjenester. Opdateringen gennemføres automatisk om et øjeblik."</string>
+    <string msgid="5201977337835724196" name="common_open_on_phone">"Åbn på telefonen"</string>
+    <string msgid="3441753203274453993" name="common_signin_button_text">"Log ind"</string>
+    <string msgid="669893613918351210" name="common_signin_button_text_long">"Log ind med Google"</string>
+    <string name="confirm">Bekræfte</string>
+    <string name="congrats_you_are_done">Tillykke! Du er færdig!</string>
+    <string name="continue_s">Fortsætte</string>
+    <string name="corners_recognized">%1$d/4 hjørner genkendt.</string>
+    <string name="current_location">Nuværende lokation</string>
+    <string name="driving_license">Kørekort</string>
+    <string name="driving_license_type">Kørekort</string>
+    <string name="email_address">Email adresse</string>
+    <string name="enter_your_email_to_start">Indtast din e-mailadresse</string>
+    <string name="everything_readable">• Kan du læse dokumentet let?</string>
+    <string name="finish">Afslut</string>
+    <string name="great_id_detected">Super! ID\'et er registreret</string>
+    <string name="health_insurance_card">Sundhedsforsikringskort</string>
+    <string name="health_insurance_card_type">Sundhedsforsikringskort</string>
+    <string name="help_to_process_faster">Hjælp os med at behandle hurtigere.</string>
+    <string name="hold_stay_for">Hold stille i %1$ds.</string>
+    <string name="id_not_blurred">• Kan du se hele dokumentet?</string>
+    <string name="if_you_already_have_done_a_verification_with_passbase_in_the_past_it_s_even_quicker">På denne måde kan du overvåge, hvem der har adgang til dine data.</string>
+    <string name="name_example_com">din@e-mail.com</string>
+    <string name="national_id_card">Nationalt ID-kort</string>
+    <string name="national_id_card_type">Nationalt ID-kort</string>
+    <string name="passport">Pas</string>
+    <string name="passport_type">Pas</string>
+    <string name="please_enter_a_valid_email_address">Indtast venligst en gyldig emailadresse</string>
+    <string name="prepare_your_document_are_ready_for_the_next_step">På det næste skærmbillede skal du tage et klart billede af dit dokument.</string>
+    <string name="processing_document">Behandler dokument</string>
+    <string name="proof_of_address">Bevis for adresse</string>
+    <string name="proof_of_address_type">Bevis for adresse</string>
+    <string name="proof_that_you_are_a_real_person_by_simply_following_the_instructions_in_the_next_step">Følg instruktionerne for at optage en selfie på næste skærm.</string>
+    <string name="record_a_selfie_video_and_scan_your_identity_document">Bekræft din identitet med en selfie og et billede af dit ID.</string>
+    <string name="redo">Gøre det igen</string>
+    <string name="scan_back_side">Indram dit ID</string>
+    <string name="scan_front_side">Indram dit ID</string>
+    <string name="scan_the_side_of_your_doc">Scan %1$s af din {documentType}</string>
+    <string msgid="730395136688082741" name="search_menu_title">"Søg"</string>
+    <string name="securely_tip_1">Nuværende lokation</string>
+    <string name="securely_tip_2">Dit identitetsdokument bruges til at bekræfte, at du er den, du hævder at være.</string>
+    <string name="securely_tip_3">Din e-mail bruges, så vi kan sende dig en kvittering, og du kan holde styr på, hvem der har dine data.</string>
+    <string name="securely_tip_4">Din placering bruges til at opdage enhver potentielt svigagtig opførsel og holde din konto sikker.</string>
+    <string name="securely_tip_5">Dette dokument giver verifikatoren yderligere oplysninger til at berige specifikke datapunkter for din identitet.</string>
+    <string name="select_country">Vælg land</string>
+    <string name="select_your_identity_document">Hvilket dokument vil du scanne?</string>
+    <string name="show_side_of_your">Scan %1$s af din %2$s</string>
+    <string name="side_back">Tilbage</string>
+    <string name="side_front">Foran</string>
+    <string name="something_went_wrong">Noget gik galt.</string>
+    <string name="start">Start</string>
+    <string name="start_camera">Start kamera</string>
+    <string name="start_notice">Ved at klikke på \"Start\" accepterer du vores vilkår og <a href="https://passbase.com/verification-terms/">Betingelser </a> og <a href="https://passbase.com/privacy/">Privatlivspolitik</a>.</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="take_a_short_selfie_video">Tag en hurtig video-selfie</string>
+    <string name="take_it_manually">Tag foto manuelt</string>
+    <string name="try_again">Prøv igen</string>
+    <string name="uploading">uploadet</string>
+    <string name="verify_me">Bekræft mig</string>
+    <string name="verify_your_identity_now">Start din bekræftelse</string>
+    <string name="video_selfie">Video selfie</string>
+    <string name="we_securely_transfer_your_data_now">Overfør dine data sikkert</string>
+    <string name="where_was_your_identity_document_issued">Hvor er dit dokument fra?</string>
+    <string name="your_verification_is_now_in_process">Din bekræftelse er nu i gang</string>
+</resources>

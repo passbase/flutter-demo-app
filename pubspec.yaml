@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
-  passbase_flutter: ^0.0.1
+  passbase_flutter: ^0.0.7
 
 
 dev_dependencies:
@@ -20,3 +20,10 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - lib/assets/shield-icon.png
+  fonts:
+    - family: Exo
+      fonts:
+        - asset: lib/assets/Exo-Regular.ttf
+        - asset: lib/assets/Exo-SemiBold.ttf
