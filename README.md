@@ -1,4 +1,4 @@
-![alt text](https://passbase.com/assets/images/meta.jpg "Passbase Banner")
+![alt text](https://i.imgur.com/cOj85Lg.jpg "Passbase Banner")
 
 # Official Passbase Flutter Demo App
 
