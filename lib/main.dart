@@ -7,11 +7,9 @@ void main() => runApp(PassbaseFlutterDemoApp());
 class PassbaseFlutterDemoApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    PassbaseSDK.prefillUserEmail = "testuser@mail.com";
+    PassbaseSDK.initialize(publishableApiKey: "YOUR_PUBLISHABLE_API_KEY");
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
-      theme: ThemeData(
-        primarySwatch: Colors.blue,
-      ),
       home: PassbaseDemoHomePage(),
     );
   }
@@ -22,19 +20,6 @@ class PassbaseDemoHomePage extends StatefulWidget {
 
   @override
   _PassbaseDemoHomePageState createState() {
-    PassbaseFlutter.initialize(
-        apiKey:
-            "YOUR_OWN_PUBLISHABLE_API_KEY");
-
-    // PassbaseFlutter.buttonUI.setActionButtonBgColor(color: Colors.red);
-    // PassbaseFlutter.buttonUI.setSubtitleTextColor(color: Colors.red);
-    // PassbaseFlutter.buttonUI.setLoadingIndicatorColor(color: Colors.red);
-    // PassbaseFlutter.buttonUI.setTitleTextColor(color: Colors.red);
-    // PassbaseFlutter.buttonUI.setDisclaimerTextColor(color: Colors.red);
-    // PassbaseFlutter.buttonUI.setActionButtonTextColor(color: Colors.white);
-    // PassbaseFlutter.buttonUI
-    //     .setActionButtonDeactivatedBgColor(color: Colors.red.withAlpha(30));
-
     return _PassbaseDemoHomePageState();
   }
 }
@@ -86,15 +71,18 @@ class _PassbaseDemoHomePageState extends State<PassbaseDemoHomePage> {
             Padding(
               padding: EdgeInsets.only(bottom: 70),
               child: PassbaseButton(
-                onVerificationSuccess: (authKey) {
+                onFinish: (identityAccessKey) {
                   // do stuff in case of success
-                  print(authKey);
+                  print(identityAccessKey);
                 },
-                onVerificationCancel: () {
+                onError: (errorCode) {
                   // do stuff in case of cancel
-                  print("cancel");
+                  print(errorCode);
                 },
-                backgroundColor: Colors.white,
+                onStart: () {
+                  // do stuff in case of start
+                  print("start");
+                },
                 width: 300,
                 height: 60,
               ),
