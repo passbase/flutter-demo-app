@@ -11,7 +11,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
-  passbase_flutter: ^2.6.0
+  passbase_flutter: 2.7.4
 
 
 dev_dependencies:
