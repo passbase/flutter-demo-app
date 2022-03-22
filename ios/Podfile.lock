@@ -1,27 +1,21 @@
 PODS:
   - Flutter (1.0.0)
-  - Passbase (1.7.11):
-    - Sentry
-    - ZoomAuthenticationHybrid (~> 7.0.18)
-  - passbase_flutter (0.0.1):
+  - Microblink (5.15.2)
+  - Passbase (2.12.0):
+    - Microblink (= 5.15.2)
+  - passbase_flutter (2.12.0):
     - Flutter
-    - Passbase (~> 1.7.11)
-  - Sentry (4.5.0):
-    - Sentry/Core (= 4.5.0)
-  - Sentry/Core (4.5.0)
-  - ZoomAuthenticationHybrid (7.0.18)
+    - Passbase (= 2.12.0)
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
   - passbase_flutter (from `.symlinks/plugins/passbase_flutter/ios`)
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
-    - Sentry
   https://github.com/passbase/cocoapods-specs.git:
     - Passbase
-  https://github.com/passbase/zoom-cocoapods-specs.git:
-    - ZoomAuthenticationHybrid
+  https://github.com/passbase/microblink-cocoapods-specs.git:
+    - Microblink
 
 EXTERNAL SOURCES:
   Flutter:
@@ -30,12 +24,11 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/passbase_flutter/ios"
 
 SPEC CHECKSUMS:
-  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  Passbase: f15df907650865bd5cd270508b81654e32820e2d
-  passbase_flutter: 695432826bb18da7f34973c42237655b51b4842d
-  Sentry: ab6c209f23700d1460691dbc90e19ed0a05d496b
-  ZoomAuthenticationHybrid: 74e0409c2c7fe707a3edd236adb1efe37565545e
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  Microblink: 2489fab79f111626896f0f961aae9f3167b51199
+  Passbase: d756c0c712aa74a900cc44a90ea9f9de6fbd42ae
+  passbase_flutter: e15bef9d15575374b4a85c3ee6381ad59364d172
 
-PODFILE CHECKSUM: 5487e44e35920858ad8df678e7611ec06d62e825
+PODFILE CHECKSUM: f14128e84341f9bfc1c760fb9c5547c78ec86646
 
-COCOAPODS: 1.9.1
+COCOAPODS: 1.11.2
