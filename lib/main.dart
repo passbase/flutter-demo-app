@@ -16,7 +16,7 @@ class PassbaseFlutterDemoApp extends StatelessWidget {
 }
 
 class PassbaseDemoHomePage extends StatefulWidget {
-  PassbaseDemoHomePage({Key key}) : super(key: key);
+  PassbaseDemoHomePage({Key? key}) : super(key: key);
 
   @override
   _PassbaseDemoHomePageState createState() {
